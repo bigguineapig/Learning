@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Counting_Algorithm
+{
+    class Sorting_Algorithm
+    {
+            int[] numbers = { 50, 2, 80, 25, 14, 32, 100, 1 };
+
+            public static int sortNumbers(int[] number)
+            {
+                return 0;
+            }
+
+    }
+
+}
